@@ -1,0 +1,16 @@
+Written Report for Pandas-Challenge
+-----------------------------------
+Summary
+-------
+This analysis provides a list of comprehensive summaries for all the key metrics in the given school district.
+Starting with an overall summarization and from there, breaking it down into more specific categories, 
+such as spending, grade averages and total student body count per school and/or school type.
+
+Conclusions
+-----------
+One conclusion that can be made is that there isn't any drastic change in math/reading scores between grades
+in any of the given schools. I would've expected at least a slight increase with each new grade but for the most
+part the scores stay almost the same, and in some cases even decrease slightly.
+
+another conclusion that can be made is that there is very big difference in scoring/passing percentages between
+spending ranges (per student). All the highest scores tend to come from the schools that have the lowest budgets.
